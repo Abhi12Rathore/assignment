@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreBoard Assignment</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="plus">+</string>
+    <string name="tennis">Serena and Venus playing tennis</string>
+    <string name="serverA">Server: A</string>
+    <string name="serverB">Server: B</string>
+    <string name="love">Love All</string>
+    <string name="tennisicon">Icon of two tennis rackets</string>
+</resources>
